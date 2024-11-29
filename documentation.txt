@@ -1,0 +1,41 @@
+Potential Explorations for Analysis:
+Seasonality Trends:
+
+Examine ticket sales, prices, or passenger volume by quarter to understand seasonal patterns (e.g., increased travel in summer or holidays).
+Year-over-Year Trends:
+
+Compare quarterly data across years to identify growth, decline, or disruptions (e.g., COVID-19 impact in 2020–2021).
+Airport-Specific Analysis:
+
+Focus on major Californian airports like LAX, SFO, SAN, OAK, and SMF to analyze trends specific to these hubs.
+Route Analysis:
+
+Study popular routes originating in California and their quarterly trends in ticket pricing or volume.
+Price Fluctuations:
+
+Analyze how ticket prices vary across quarters and over the years to detect patterns or anomalies.
+External Events Correlation:
+
+Investigate how external events (e.g., economic downturns, fuel price changes, pandemic) affected air travel trends by quarter.
+Methods to Maximize Insights Despite Limited Time Granularity:
+Aggregate Data at the Quarter Level:
+
+Sum, average, or calculate medians for metrics like ticket prices, sales, or passenger volumes for each quarter.
+Feature Engineering:
+
+Create new features such as:
+Season indicator: Assign a season to each quarter (e.g., Q1 = Winter, Q2 = Spring).
+Post-pandemic period: Flag quarters after the start of 2021 for post-pandemic recovery analysis.
+Visualization:
+
+Use Tableau or other tools to create visual representations such as:
+Line charts for trends over time.
+Heatmaps for quarterly data distribution across years.
+Geographic maps to show trends specific to airports.
+Comparative Analysis:
+
+Analyze California vs. other states to highlight differences.
+Compare major airports in California (e.g., LAX vs. SFO).
+Quarterly Proxies for Events:
+
+Use quarters as proxies for specific time frames (e.g., Q4 often reflects holiday travel).
